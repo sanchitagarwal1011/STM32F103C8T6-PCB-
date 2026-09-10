@@ -5042,7 +5042,7 @@
 		)
 		(uuid "050ea00e-b7d2-4dac-8147-b2afa8809683")
 	)
-	(label "I2C2_SCL"
+	(label "I2C2_SDA"
 		(at 125.73 114.3 0)
 		(effects
 			(font
@@ -5612,7 +5612,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1c6292ef-fb6a-40ee-8def-bc29385c0e4a")
 		(property "Reference" "C4"
 			(at 116.84 44.4499 0)

@@ -42,15 +42,18 @@ The repository contains the following KiCad files:
 
 ### Schematic
 
-Add your schematic image here.
+<img width="1000" height="500" alt="Screenshot 2026-09-14 033124" src="https://github.com/user-attachments/assets/2b021a4e-9ac0-44f0-b5c2-f21edbc03b73" />
+
 
 ### PCB Layout
 
-Add your PCB layout image here.
+<img width="425" height="400" alt="Screenshot 2026-09-14 033136" src="https://github.com/user-attachments/assets/005c3804-9b61-4124-9de9-dff946c3cc39" />
+
 
 ### 3D View
 
-Add your 3D PCB view image here.
+<img width="550" height="500" alt="Screenshot 2026-09-14 033154" src="https://github.com/user-attachments/assets/012df61d-c66e-4bd0-bec8-9a73b73389fb" />
+
 
 ## Project Status
 

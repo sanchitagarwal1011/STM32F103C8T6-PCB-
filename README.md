@@ -1,168 +1,83 @@
-\# KiCad STM32 PCB Design — Phil’s Lab #65
+# KiCad STM32 PCB Design — Phil’s Lab #65
 
-
-
-A PCB design project created while following \*\*Phil’s Lab #65: STM32 PCB Design Tutorial\*\*.
-
-
+A PCB design project created while following **Phil’s Lab #65: STM32 PCB Design Tutorial**.
 
 This project was developed as a practical exercise to learn the complete PCB design workflow using KiCad.
 
-
-
-\## Project Overview
-
-
+## Project Overview
 
 The project covers the design of an STM32-based PCB, including schematic creation, component selection, footprint assignment, PCB layout, routing, and design-rule checking.
 
+## What I Practiced
 
+* Schematic design in KiCad
+* STM32 microcontroller integration
+* Component and footprint selection
+* PCB component placement
+* Power and ground routing
+* Signal routing
+* Track-width selection
+* Ground-plane creation
+* PCB design-rule checking
+* Gerber file generation
+* Basic PCB documentation
 
-\## What I Practiced
+## Software Used
 
+* KiCad 10
+* Git
+* GitHub
 
-
-\* Schematic design in KiCad
-
-\* STM32 microcontroller integration
-
-\* Component and footprint selection
-
-\* PCB component placement
-
-\* Power and ground routing
-
-\* Signal routing
-
-\* Track-width selection
-
-\* Ground-plane creation
-
-\* PCB design-rule checking
-
-\* Gerber file generation
-
-\* Basic PCB documentation
-
-
-
-\## Software Used
-
-
-
-\* KiCad 10
-
-\* Git
-
-\* GitHub
-
-
-
-\## Project Files
-
-
+## Project Files
 
 The repository contains the following KiCad files:
 
+* KiCad project file
+* Schematic file
+* PCB layout file
+* Gerber manufacturing files
+* Project documentation
 
+## PCB Design Preview
 
-\* KiCad project file
-
-\* Schematic file
-
-\* PCB layout file
-
-\* Gerber manufacturing files
-
-\* Project documentation
-
-
-
-\## PCB Design Preview
-
-
-
-\### Schematic
-
-
+### Schematic
 
 Add your schematic image here.
 
-
-
-\### PCB Layout
-
-
+### PCB Layout
 
 Add your PCB layout image here.
 
-
-
-\### 3D View
-
-
+### 3D View
 
 Add your 3D PCB view image here.
 
+## Project Status
 
+* [x] Schematic completed
+* [x] Components selected
+* [x] Footprints assigned
+* [x] PCB layout created
+* [x] Components placed
+* [x] PCB routing completed
+* [x] Ground plane added
+* [x] Design-rule checking completed
+* [x] Gerber files generated
+* [ ] PCB manufacturing
+* [ ] Hardware testing
 
-\## Project Status
-
-
-
-\* \[x] Schematic completed
-
-\* \[x] Components selected
-
-\* \[x] Footprints assigned
-
-\* \[x] PCB layout created
-
-\* \[x] Components placed
-
-\* \[x] PCB routing completed
-
-\* \[x] Ground plane added
-
-\* \[x] Design-rule checking completed
-
-\* \[x] Gerber files generated
-
-\* \[ ] PCB manufacturing
-
-\* \[ ] Hardware testing
-
-
-
-\## Learning Reference
-
-
+## Learning Reference
 
 This project is based on:
 
-
-
-\*\*Phil’s Lab — Lesson #65: STM32 PCB Design Tutorial\*\*
-
-
+**Phil’s Lab — Lesson #65: STM32 PCB Design Tutorial**
 
 The project is intended for educational and personal PCB-design practice.
 
-
-
-\## Disclaimer
-
-
+## Disclaimer
 
 This PCB has been created as a learning project. It has not been manufactured or hardware-tested, and it should not be used in a real application without further verification and testing.
 
+## Author
 
-
-\## Author
-
-
-
-\*\*Sanchit Agarwal\*\*
-
-
-
+**Sanchit Agarwal**
